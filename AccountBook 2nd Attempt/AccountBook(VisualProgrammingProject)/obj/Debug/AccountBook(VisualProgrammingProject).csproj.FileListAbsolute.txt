@@ -1,0 +1,12 @@
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\bin\Debug\AccountBook(VisualProgrammingProject).exe.config
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\bin\Debug\AccountBook(VisualProgrammingProject).exe
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\bin\Debug\AccountBook(VisualProgrammingProject).pdb
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook(VisualProgrammingProject).csproj.AssemblyReference.cache
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook_VisualProgrammingProject_.Properties.Resources.resources
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook(VisualProgrammingProject).csproj.GenerateResource.cache
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook(VisualProgrammingProject).csproj.CoreCompileInputs.cache
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook(VisualProgrammingProject).exe
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook(VisualProgrammingProject).pdb
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook_VisualProgrammingProject_.LoginForm.resources
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook_VisualProgrammingProject_.AccountBook.resources
+E:\BIMS-Projects\AccountBook 2nd Attempt\AccountBook(VisualProgrammingProject)\obj\Debug\AccountBook_VisualProgrammingProject_.RegistrationForm.resources
